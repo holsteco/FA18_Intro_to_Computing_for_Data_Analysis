@@ -1,0 +1,9 @@
+https://courses.edx.org/courses/course-v1:GTx+CSE6040x+2T2019/course/#block-v1:GTx+CSE6040x+2T2019+type@chapter+block@09aa7d1a70f74d64a022b10a54718531
+https://piazza.com/
+https://prod-edxapp.edx-cdn.org/assets/courseware/v1/b9b1509af966844b2a4d0bf11acefa76/asset-v1:GTx+CSE6040x+2T2019+type@asset+block/6040syllabus.pdf
+
+https://docs.python.org/3/
+https://github.com/holsteco
+
+https://docs.anaconda.com/anaconda/user-guide/getting-started
+https://github.com/wesm/pydata-book
