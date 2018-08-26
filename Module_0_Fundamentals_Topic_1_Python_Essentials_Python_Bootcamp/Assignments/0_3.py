@@ -1,12 +1,13 @@
 def strcat_list(L):
-    assert type(L) is list
-	#reverse the list
-    L.reverse()
-	#concatenate the list
-	result = 
-    return result
+	assert type(L) is list
+	L.reverse()
+	Lc = "".join(L)
+	return Lc
 
 #the list	
-L = ['abc', 'def', 'ghi']
+L = ['jny', 'ags', 'uxp', 'qgf', 'iiu', 'dhq']
 
-result = strcat_list(L)
+Lc = strcat_list(L)
+print(Lc)
+print(type(Lc))
+print(type(L))
